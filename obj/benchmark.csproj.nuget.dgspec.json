@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\austin\\Desktop\\benchmark_week_4\\benchmark\\benchmark.csproj": {}
+    "c:\\Users\\austin\\Desktop\\benchmark_week_4\\week_4_lab_benchmark\\benchmark.csproj": {}
   },
   "projects": {
-    "C:\\Users\\austin\\Desktop\\benchmark_week_4\\benchmark\\benchmark.csproj": {
+    "c:\\Users\\austin\\Desktop\\benchmark_week_4\\week_4_lab_benchmark\\benchmark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\austin\\Desktop\\benchmark_week_4\\benchmark\\benchmark.csproj",
+        "projectUniqueName": "c:\\Users\\austin\\Desktop\\benchmark_week_4\\week_4_lab_benchmark\\benchmark.csproj",
         "projectName": "benchmark",
-        "projectPath": "C:\\Users\\austin\\Desktop\\benchmark_week_4\\benchmark\\benchmark.csproj",
+        "projectPath": "c:\\Users\\austin\\Desktop\\benchmark_week_4\\week_4_lab_benchmark\\benchmark.csproj",
         "packagesPath": "C:\\Users\\austin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\austin\\Desktop\\benchmark_week_4\\benchmark\\obj\\",
+        "outputPath": "c:\\Users\\austin\\Desktop\\benchmark_week_4\\week_4_lab_benchmark\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
